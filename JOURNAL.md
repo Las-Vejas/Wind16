@@ -23,4 +23,4 @@ I myself think its a great design choice, that won’t interfere with any other 
 
 | PCB with populated switches   | Clearance (Pin headers accounted for)|
 |-------------------------------|--------------------------------|
-| ![Alt](img/pcb-3d.png)<br>    | ![Alt](img/clearance.jpg)<br>  |
+| ![Alt](img/pcb-3d.png)<br>    | ![Alt](img/clearance.png)<br>  |
