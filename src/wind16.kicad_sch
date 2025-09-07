@@ -4287,7 +4287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
+		(property "Footprint" "Seeed XIAO:XIAO-RP2040-DIP"
 			(at 127 40.64 0)
 			(effects
 				(font

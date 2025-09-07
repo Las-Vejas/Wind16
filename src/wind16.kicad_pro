@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "GNDPAD.kicad_pro",
+    "filename": "wind16.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../wind16.stl",
       "svg": "",
       "vrml": ""
     },
