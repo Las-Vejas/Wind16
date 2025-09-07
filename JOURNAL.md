@@ -23,4 +23,12 @@ I myself think its a great design choice, that won’t interfere with any other 
 
 | PCB with populated switches   | Clearance (Pin headers accounted for)|
 |-------------------------------|--------------------------------|
-| ![Alt](img/pcb-3d.png)<br>    | ![Alt](img/clearance.jpg)<br>  |
+| ![PCB with switches](img/pcb-3d.png)<br>    | ![Clearance of rp2040](img/clearance.jpg)<br>  |
+
+### 3D Case
+
+I have also added a case to house the bottom pcb, but I do not think a top plate or case is really necessary at the moment.
+
+![3d printed case](img/case.png)<br>
+
+I also decided that I will be using white keycaps for the leds to shine on. 
