@@ -23,7 +23,7 @@ I myself think its a great design choice, that won’t interfere with any other 
 
 | PCB with populated switches   | Clearance (Pin headers accounted for)|
 |-------------------------------|--------------------------------|
-| ![PCB with switches](img/pcb-3d.png)<br>    | ![Clearance of rp2040](img/clearance.jpg)<br>  |
+| ![PCB with switches](img/pcb-3d.png)<br>    | ![Clearance of rp2040](img/clearance.png)<br>  |
 
 ### 3D Case
 
