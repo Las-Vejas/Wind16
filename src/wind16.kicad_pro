@@ -492,7 +492,7 @@
       "specctra_dsn": "",
       "step": "../../wind16.stl",
       "svg": "",
-      "vrml": ""
+      "vrml": "wind16.wrl"
     },
     "page_layout_descr_file": ""
   },

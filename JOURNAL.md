@@ -32,3 +32,27 @@ I have also added a case to house the bottom pcb, but I do not think a top plate
 ![3d printed case](img/case.png)<br>
 
 I also decided that I will be using white keycaps for the leds to shine on. 
+
+# September 8 + 9 - New case + change of mind
+
+I watched a guide on how to make a case for your keyboard by ScottoKeebs (which is an amazing video).
+I then made a case in Shapr3d trying to incorporate some M2.5 screws that I have left over from another build, but I will have to buy some standoffs for this keyboard.
+
+This also included me adding holes in my pcb for screws.
+
+- 23:47
+	- I had the bright idea of changing all my switches (except the top left) to hotswappable ones...
+	- This ensued a lot of rewiring and adjustments.
+	- I also changed the m2.5 screws to m2 screws because they just fit better.
+
+- 05:48
+	- Finished my overhaul, with like 5 hrs of sleep in that. 15 of 16 switches are now Hotswappable, with the very first switch getting constrained by the Xiao.
+    - Added 5 mounting holes in the pcb but idk how its gonna be mounted with my plate, because there will be standoffs resting below… so I guess we’ll see abt that but I can always tweak the case design and reprint it in my local maker space.
+
+    - ![PCB overhaul](img/pcb-new.png)<br>
+- 06:18
+	- Exporting all files, getting ready for submission.
+
+
+I think this is the end for this project unless I need to change something or I’ll write when I do the software.
+(My English teacher would probably have a stroke reading this :skull:)
