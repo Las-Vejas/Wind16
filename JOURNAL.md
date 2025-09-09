@@ -52,7 +52,8 @@ This also included me adding holes in my pcb for screws.
     - ![PCB overhaul](img/pcb-new.png)<br>
 - 06:18
 	- Exporting all files, getting ready for submission.
-
+- 06:57
+  	- Very last changes, Gerbers, silkscreen, etc.	
 
 I think this is the end for this project unless I need to change something or I’ll write when I do the software.
 (My English teacher would probably have a stroke reading this :skull:)
